@@ -37,3 +37,8 @@
 	path = JayVora-SerpentCS/SerpentCS_Contributions
 	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
 	branch = 14.0
+
+[submodule "JayVora-SerpentCS/Jasperreports_odoo"]
+	path = JayVora-SerpentCS/Jasperreports_odoo
+	url = git@github.com:JayVora-SerpentCS/Jasperreports_odoo.git
+	branch = 14.0
