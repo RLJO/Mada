@@ -67,3 +67,8 @@
 	path = Viltco/saudiaprint
 	url = git@github.com:Viltco/saudiaprint.git
 	branch = app-om_sa_invoice
+
+[submodule "Viltco/jorden"]
+	path = Viltco/jorden
+	url = git@github.com:Viltco/jorden.git
+	branch = project
