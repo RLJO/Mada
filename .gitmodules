@@ -57,3 +57,8 @@
 	path = Viltco/demosmcmain
 	url = git@github.com:Viltco/demosmcmain.git
 	branch = Live
+
+[submodule "Viltco/erp"]
+	path = Viltco/erp
+	url = git@github.com:Viltco/erp.git
+	branch = main
