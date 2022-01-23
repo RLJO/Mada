@@ -32,3 +32,8 @@
 	path = Jarsa/transport-management-system
 	url = git@github.com:Jarsa/transport-management-system.git
 	branch = 14.0
+
+[submodule "JayVora-SerpentCS/SerpentCS_Contributions"]
+	path = JayVora-SerpentCS/SerpentCS_Contributions
+	url = git@github.com:JayVora-SerpentCS/SerpentCS_Contributions.git
+	branch = 14.0
