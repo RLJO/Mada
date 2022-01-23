@@ -62,3 +62,8 @@
 	path = Viltco/erp
 	url = git@github.com:Viltco/erp.git
 	branch = main
+
+[submodule "Viltco/saudiaprint"]
+	path = Viltco/saudiaprint
+	url = git@github.com:Viltco/saudiaprint.git
+	branch = app-om_sa_invoice
