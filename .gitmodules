@@ -47,3 +47,8 @@
 	path = Viltco/bodysm
 	url = git@github.com:Viltco/bodysm.git
 	branch = main
+
+[submodule "Viltco/sb-ksa"]
+	path = Viltco/sb-ksa
+	url = git@github.com:Viltco/sb-ksa.git
+	branch = main
