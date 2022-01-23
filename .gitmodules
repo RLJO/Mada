@@ -52,3 +52,8 @@
 	path = Viltco/sb-ksa
 	url = git@github.com:Viltco/sb-ksa.git
 	branch = main
+
+[submodule "Viltco/demosmcmain"]
+	path = Viltco/demosmcmain
+	url = git@github.com:Viltco/demosmcmain.git
+	branch = Live
