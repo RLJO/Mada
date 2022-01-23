@@ -27,3 +27,8 @@
 	path = CybroOdoo/CybroAddons
 	url = git@github.com:CybroOdoo/CybroAddons.git
 	branch = 14.0
+
+[submodule "Jarsa/transport-management-system"]
+	path = Jarsa/transport-management-system
+	url = git@github.com:Jarsa/transport-management-system.git
+	branch = 14.0
