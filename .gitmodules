@@ -72,3 +72,8 @@
 	path = Viltco/jorden
 	url = git@github.com:Viltco/jorden.git
 	branch = project
+
+[submodule "Viltco/property"]
+	path = Viltco/property
+	url = git@github.com:Viltco/property.git
+	branch = main
