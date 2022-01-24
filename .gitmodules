@@ -87,3 +87,8 @@
 	path = akretion/phs-addons
 	url = git@github.com:akretion/phs-addons.git
 	branch = 14.0
+
+[submodule "Vauxoo/addons-vauxoo"]
+	path = Vauxoo/addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 14.0
