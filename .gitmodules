@@ -102,3 +102,8 @@
 	path = odooadvantage/kss
 	url = git@github.com:odooadvantage/kss.git
 	branch = main
+
+[submodule "RLJO/KRS1"]
+	path = RLJO/KRS1
+	url = git@github.com:RLJO/KRS1.git
+	branch = master
