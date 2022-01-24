@@ -82,3 +82,8 @@
 	path = Vauxoo/addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
 	branch = 14.0
+
+[submodule "MarcosEscano/ArpeBarcelona"]
+	path = MarcosEscano/ArpeBarcelona
+	url = git@github.com:MarcosEscano/ArpeBarcelona.git
+	branch = FixWorkflowHector
