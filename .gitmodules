@@ -77,3 +77,8 @@
 	path = Viltco/property
 	url = git@github.com:Viltco/property.git
 	branch = main
+
+[submodule "shopinvader/odoo-shopinvader"]
+	path = shopinvader/odoo-shopinvader
+	url = git@github.com:shopinvader/odoo-shopinvader.git
+	branch = 14.0
