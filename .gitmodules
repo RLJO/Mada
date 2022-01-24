@@ -77,3 +77,8 @@
 	path = Viltco/property
 	url = git@github.com:Viltco/property.git
 	branch = main
+
+[submodule "Vauxoo/addons-vauxoo"]
+	path = Vauxoo/addons-vauxoo
+	url = git@github.com:Vauxoo/addons-vauxoo.git
+	branch = 14.0
