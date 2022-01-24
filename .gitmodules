@@ -97,3 +97,8 @@
 	path = guohuadeng/app-odoo
 	url = git@github.com:guohuadeng/app-odoo.git
 	branch = 14.0
+
+[submodule "odooadvantage/kss"]
+	path = odooadvantage/kss
+	url = git@github.com:odooadvantage/kss.git
+	branch = main
